@@ -89,7 +89,7 @@ Output: Client Version: v1.16.8-eks-e16311
 ```
 mkdir kubectlbinary
 cd kubectlbinary
-curl -o kubectl.exe https://amazon-eks.s3.us-west-2.amazonaws.com/1.16.8/2020-04-16/bin/windows/amd64/kubectl.exe
+curl -o kubectl.exe https://amazon-eks.s3.us-east-1.amazonaws.com/1.16.8/2020-04-16/bin/windows/amd64/kubectl.exe
 ```
 - Update the system **Path** environment variable 
 ```
